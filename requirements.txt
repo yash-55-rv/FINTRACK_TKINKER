@@ -1,0 +1,2 @@
+# FinTrack uses only the Python standard library - nothing to install!
+# (tkinter ships with Python on Windows/macOS; on some Linux distros: sudo apt install python3-tk)
